@@ -125,7 +125,9 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2018Fall 分組  網際簡報
-##40623113
+
+## 40623113
+
 ### 虎科大機械設計工程系
 
 &lt;small&gt;

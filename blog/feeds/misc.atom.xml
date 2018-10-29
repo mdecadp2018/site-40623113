@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623113 網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-10-26T09:30:00+08:00</updated><entry><title>W7上課內容</title><link href="./40623113-W7.html" rel="alternate"></link><published>2018-10-26T09:30:00+08:00</published><updated>2018-10-26T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:None,2018-10-26:./40623113-W7.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L7&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623113 網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623113/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623113/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623113/blog/</id><updated>2018-10-26T09:30:00+08:00</updated><entry><title>W7上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W7.html" rel="alternate"></link><published>2018-10-26T09:30:00+08:00</published><updated>2018-10-26T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623113/blog/40623113-W7.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L7&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;電腦輔助設計實習 L7&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
-&lt;p&gt;TEST&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 40623113 分組網誌 W1</title><link href="./40623113-Blog.html" rel="alternate"></link><published>2018-10-19T11:30:00+08:00</published><updated>2018-10-19T11:30:00+08:00</updated><author><name>40623113</name></author><id>tag:None,2018-10-19:./40623113-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-
-
-&lt;h2&gt;W1&lt;/h2&gt;
-&lt;p&gt;TEST&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W6上課內容</title><link href="./40623113-W6.html" rel="alternate"></link><published>2018-10-19T09:30:00+08:00</published><updated>2018-10-19T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:None,2018-10-19:./40623113-W6.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L6&lt;/p&gt;
+&lt;p&gt;TEST 1&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W6上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W6.html" rel="alternate"></link><published>2018-10-19T09:30:00+08:00</published><updated>2018-10-19T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623113/blog/40623113-W6.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L6&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;電腦輔助設計實習 L6&lt;/p&gt;
 
 
@@ -24,7 +19,7 @@
 &lt;p&gt;地: 由於採用可攜與雲端系統, 可以降低因為不同地點電腦套件的版本、內容與設定差異所造成的輔助設計問題.&lt;/p&gt;
 &lt;p&gt;物: 主要採用可攜與雲端系統, 並且在 github classroom 中上課, 每位學員都可以彼此從網站、簡報與網誌中的內容互相觀摩學習&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;第6周學習如何升級最新的flaskapp.py、有關人事時地物等關鍵內容的架構安排.、還有行事曆的東西，還有一個是繼續練習Onshape，最近開始愈畫愈有深度了，感受到難度，不過還蠻好玩的，挑戰新東西&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W5上課內容</title><link href="./40623113-W5.html" rel="alternate"></link><published>2018-10-12T09:30:00+08:00</published><updated>2018-10-12T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:None,2018-10-12:./40623113-W5.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L5&lt;/p&gt;
+&lt;p&gt;第6周學習如何升級最新的flaskapp.py、有關人事時地物等關鍵內容的架構安排.、還有行事曆的東西，還有一個是繼續練習Onshape，最近開始愈畫愈有深度了，感受到難度，不過還蠻好玩的，挑戰新東西&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W5上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W5.html" rel="alternate"></link><published>2018-10-12T09:30:00+08:00</published><updated>2018-10-12T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623113/blog/40623113-W5.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L5&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;電腦輔助設計實習 L5&lt;/p&gt;
 
 
@@ -34,7 +29,7 @@
 &lt;p&gt;學習&lt;a href="https://www.onshape.com/"&gt;Onshape&lt;/a&gt; 參數化&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;p&gt;第5周onshape邁入第2階段，學習了一周後感覺更加上手了。邊學畫圖也能邊學英文，功能也蠻不賴的，又比SW好操作，簡直撿到寶，參數化是我第一次學到，他這功能好猛..&lt;/p&gt;
-&lt;p&gt;平常要一個一個更改尺寸，參數化後直接改一個，同類型的全部都改，省超多時間ㄟ&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W4上課內容</title><link href="./40623113-W4.html" rel="alternate"></link><published>2018-10-05T09:30:00+08:00</published><updated>2018-10-05T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:None,2018-10-05:./40623113-W4.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L4&lt;/p&gt;
+&lt;p&gt;平常要一個一個更改尺寸，參數化後直接改一個，同類型的全部都改，省超多時間ㄟ&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W4上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W4.html" rel="alternate"></link><published>2018-10-05T09:30:00+08:00</published><updated>2018-10-05T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623113/blog/40623113-W4.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L4&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;電腦輔助設計實習 L4&lt;/p&gt;
 
 
@@ -47,7 +42,7 @@
 &lt;p&gt;在第4周的時候近端跑出Builtins IndexError的問題...當下根本不知道怎麼半 我嘗試搜尋老師得影片 有看到一個夜間部的也有相同狀況，嘗試了相同步驟後沒改善...最後是更新Flaskapp.py(clone CM並取代)才好的，緊張死&lt;/p&gt;
 &lt;p&gt;不能在剛更新完flaskapp.py  git pull遠端，只能用git clone。&lt;/p&gt;
 &lt;p&gt;另外也可通過直接到Y:\tmp\site\config\content.htm找尋錯誤原因並修正後就可以解決，大部分都是圖檔或影片檔變成了標題，只要把標題文字刪除即可恢復原樣&lt;/p&gt;
-&lt;p&gt;另外這周學習Onshape我覺得跟SW好像，蠻簡單的，還能共編。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W3上課內容</title><link href="./40623113-W3.html" rel="alternate"></link><published>2018-09-28T09:30:00+08:00</published><updated>2018-09-28T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:None,2018-09-28:./40623113-W3.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L3&lt;/p&gt;
+&lt;p&gt;另外這周學習Onshape我覺得跟SW好像，蠻簡單的，還能共編。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W3上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W3.html" rel="alternate"></link><published>2018-09-28T09:30:00+08:00</published><updated>2018-09-28T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623113/blog/40623113-W3.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L3&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;電腦輔助設計實習 L3&lt;/p&gt;
 
 
@@ -58,7 +53,7 @@
 &lt;p&gt;開始練習Onshape Lession 1&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://youtu.be/2haFLp3b4cA"&gt;HWL1&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;第3周學習Github的功能，，像是git branch dev、git log --oneline --graph --all、git checkout、git merge等等，以前沒用過的有不少的說，用了之後感覺好像不錯，也練習了一兩遍，不過可能以後來是會忘記，得多多練習了...&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W2上課內容</title><link href="./40623113-W2.html" rel="alternate"></link><published>2018-09-21T09:30:00+08:00</published><updated>2018-09-21T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:None,2018-09-21:./40623113-W2.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L2&lt;/p&gt;
+&lt;p&gt;第3周學習Github的功能，，像是git branch dev、git log --oneline --graph --all、git checkout、git merge等等，以前沒用過的有不少的說，用了之後感覺好像不錯，也練習了一兩遍，不過可能以後來是會忘記，得多多練習了...&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W2上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W2.html" rel="alternate"></link><published>2018-09-21T09:30:00+08:00</published><updated>2018-09-21T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623113/blog/40623113-W2.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L2&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;電腦輔助設計實習 L2&lt;/p&gt;
 
 
@@ -71,7 +66,7 @@
 &lt;p&gt;在近端更新後generate-pages轉成靜態網頁&lt;/p&gt;
 &lt;p&gt;學習使用&lt;a href="https://www.onshape.com/"&gt;Onshape&lt;/a&gt; 進行繪圖練習&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;第二周學習如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲 管理分支、在哪可以找到影片檔案、修改投影片部落格、更改成靜態網頁，前幾周好像都在學習跟一年級相關得東西，不過有些忘了但聽過老師講解後就熟悉很多了。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W1上課內容</title><link href="./40623113-W1.html" rel="alternate"></link><published>2018-09-14T09:30:00+08:00</published><updated>2018-09-14T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:None,2018-09-14:./40623113-W1.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L1&lt;/p&gt;
+&lt;p&gt;第二周學習如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲 管理分支、在哪可以找到影片檔案、修改投影片部落格、更改成靜態網頁，前幾周好像都在學習跟一年級相關得東西，不過有些忘了但聽過老師講解後就熟悉很多了。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W1上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W1.html" rel="alternate"></link><published>2018-09-14T09:30:00+08:00</published><updated>2018-09-14T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623113/blog/40623113-W1.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L1&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;電腦輔助設計實習 L1&lt;/p&gt;
 
 
@@ -81,7 +76,7 @@
 &lt;p&gt;從內定的 master 分支, 切換到 gh-pages&lt;/p&gt;
 &lt;p&gt;python wsgi.py 啟動 近端&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;第一周領取我們自己的任務包倉儲並利用自己的倉儲做一個網站出來紀錄我們幹了甚麼，也學到如何開啟近端 遠端  P37 等等跟一年級相近的東西，有種親切的感覺?&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;第一周領取我們自己的任務包倉儲並利用自己的倉儲做一個網站出來紀錄我們幹了甚麼，也學到如何開啟近端 遠端  P37 等等跟一年級相近的東西，有種親切的感覺?&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623113/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623113/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 

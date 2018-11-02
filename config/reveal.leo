@@ -25,8 +25,12 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181102231958.1" a="E"><vh>W1</vh>
-<v t="leo.20181103001425.1"><vh>內容</vh></v>
-<v t="leo.20181102232710.1"><vh>內容</vh></v>
+<v t="leo.20181103001425.1" a="E"><vh>內容</vh>
+<v t="leo.20181103001939.1"><vh>內容1</vh></v>
+</v>
+<v t="leo.20181102232710.1" a="E"><vh>內容</vh>
+<v t="leo.20181103002003.1"><vh>內容1</vh></v>
+</v>
 </v>
 <v t="leo.20181102231958.2" a="E"><vh>W2</vh>
 <v t="leo.20181102232723.1"><vh>內容</vh></v>
@@ -52,17 +56,17 @@
 <v t="leo.20181102113201.1" a="E"><vh>筆記</vh>
 <v t="leo.20181102113247.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.18"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -367,11 +371,11 @@ make.start()
 
 &lt;img src="https://pic1.zhimg.com/80/1f07a3a53308e972c68ee4c000cb72e8_hd.jpg"width="200" height="100"&gt;
 </t>
-<t tx="leo.20181102231958.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181102231958.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
+
+
 </t>
 <t tx="leo.20181102231958.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -385,11 +389,14 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181102232710.1">## What is Onshape?
+<t tx="leo.20181102232710.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-*[SW WIKI](https://en.wikipedia.org/wiki/SolidWorks)
-
-*[OS WIKI](https://en.wikipedia.org/wiki/Onshape)</t>
+</t>
 <t tx="leo.20181102232723.1">## W2</t>
 <t tx="leo.20181102232728.1">## W3</t>
 <t tx="leo.20181102233623.1">&lt;section data-markdown&gt;
@@ -422,14 +429,26 @@ make.start()
 <t tx="leo.20181102233700.1"></t>
 <t tx="leo.20181102233702.1"></t>
 <t tx="leo.20181102233704.1"></t>
-<t tx="leo.20181103001425.1">### 09/14學習內容
+<t tx="leo.20181103001425.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181103001939.1">### 09/14學習內容
 
 * 根據分組協同流程中學員須知準備隨身碟、耳機、麥克風與紙本筆記
 
 * 所有課程問題, 均在各週的對應 issues 中, 利用 github 以 comment 方式提出
 
-* 請學員登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業
+*  https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
-* 期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄</t>
+* 期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程</t>
+<t tx="leo.20181103002003.1">## What is Onshape?
+
+*[SW WIKI](https://en.wikipedia.org/wiki/SolidWorks)
+
+*[OS WIKI](https://en.wikipedia.org/wiki/Onshape)</t>
 </tnodes>
 </leo_file>

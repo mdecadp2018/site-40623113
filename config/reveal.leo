@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102231958.1" a="E"><vh>W1</vh>
+<v t="leo.20181102231958.1"><vh>W1</vh>
 <v t="leo.20181103001425.1" a="E"><vh>內容</vh>
 <v t="leo.20181103001939.1"><vh>內容1</vh></v>
 </v>
@@ -32,7 +32,7 @@
 <v t="leo.20181103002003.1"><vh>內容1</vh></v>
 </v>
 </v>
-<v t="leo.20181102231958.2" a="E"><vh>W2</vh>
+<v t="leo.20181102231958.2"><vh>W2</vh>
 <v t="leo.20181103003947.1" a="E"><vh>內容</vh>
 <v t="leo.20181103003954.1"><vh>內容2</vh></v>
 </v>
@@ -40,15 +40,15 @@
 <v t="leo.20181103003956.1"><vh>內容2</vh></v>
 </v>
 </v>
-<v t="leo.20181102231958.3" a="E"><vh>W3</vh>
-<v t="leo.20181102232728.1" a="E"><vh>內容</vh>
+<v t="leo.20181102231958.3"><vh>W3</vh>
+<v t="leo.20181102232728.1"><vh>內容</vh>
 <v t="leo.20181103005555.1"><vh>內容3</vh></v>
 </v>
 <v t="leo.20181103005548.1" a="E"><vh>內容</vh>
 <v t="leo.20181103005630.1"><vh>內容3</vh></v>
 </v>
 </v>
-<v t="leo.20181102233623.1" a="E"><vh>W4</vh>
+<v t="leo.20181102233623.1"><vh>W4</vh>
 <v t="leo.20181102233651.1" a="E"><vh>內容</vh>
 <v t="leo.20181103011319.1"><vh>內容4</vh></v>
 </v>
@@ -65,16 +65,28 @@
 </v>
 </v>
 <v t="leo.20181102233624.1" a="E"><vh>W6</vh>
-<v t="leo.20181102233700.1"><vh>內容</vh></v>
-<v t="leo.20181103013312.1"><vh>內容</vh></v>
+<v t="leo.20181102233700.1" a="E"><vh>內容</vh>
+<v t="leo.20181103014608.1"><vh>內容6</vh></v>
+</v>
+<v t="leo.20181103013312.1" a="E"><vh>內容</vh>
+<v t="leo.20181103015434.1"><vh>內容6</vh></v>
+</v>
 </v>
 <v t="leo.20181102233624.2" a="E"><vh>W7</vh>
-<v t="leo.20181102233702.1"><vh>內容</vh></v>
-<v t="leo.20181103013324.1"><vh>內容</vh></v>
+<v t="leo.20181102233702.1" a="E"><vh>內容</vh>
+<v t="leo.20181103015549.1"><vh>內容7</vh></v>
+</v>
+<v t="leo.20181103013324.1" a="E"><vh>內容</vh>
+<v t="leo.20181103015944.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 <v t="leo.20181102233624.3" a="E"><vh>W8</vh>
-<v t="leo.20181102233704.1"><vh>內容</vh></v>
-<v t="leo.20181103013333.1"><vh>內容</vh></v>
+<v t="leo.20181102233704.1" a="E"><vh>內容</vh>
+<v t="leo.20181103015948.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181103013333.1" a="E"><vh>內容</vh>
+<v t="leo.20181103020254.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 <v t="leo.20181102113201.1" a="E"><vh>筆記</vh>
 <v t="leo.20181102113247.1"><vh>內容</vh></v>
@@ -520,9 +532,7 @@ make.start()
 
 * 期中作業倉儲,  每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中
 
-* 若要啟動 Pelican Blog 中的 disqus, 可以修改 config/pelican.leo 中, "Pelican 設定"節點下方的 @edit publishconf.py 內容, 指定 DISQUS_SITENAME:
-
-DISQUS_SITENAME = "mdecadp2018"
+* 若要啟動 Pelican Blog 中的 disqus, 可以修改 config/pelican.leo 中, "Pelican 設定"節點下方的 @edit publishconf.py 內容, 指定 DISQUS_SITENAME:"mdecadp2018"
 
 &lt;img src="https://user-images.githubusercontent.com/20835445/45581029-6576f700-b8ca-11e8-8785-a66b6ca6a785.png"width="300" height="250"&gt;
 </t>
@@ -553,12 +563,11 @@ DISQUS_SITENAME = "mdecadp2018"
 </t>
 <t tx="leo.20181103011319.1">## 10/05學習內容
 
-* 期中作業倉儲,  每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中、練習Onshape
-
 *  CMSimfly, Reveal, Pelican Blog 管理方法說明
 
-1.利用 git checkout 從內定的 master 分支, 切換到 gh-pages
-2.以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.改版後要轉靜態網頁
+* 1.利用 git checkout 從內定的 master 分支, 切換到 gh-pages
+
+* 2.以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.改版後要轉靜態網頁
 
 *[Onshape Featurescript](https://www.onshape.com/features/custom-features)</t>
 <t tx="leo.20181103012252.1"></t>
@@ -572,13 +581,15 @@ DISQUS_SITENAME = "mdecadp2018"
 <t tx="leo.20181103013214.1">## 10/12學習內容
 
 * Pelican blog 重複 slug 設定處理.
-簡單來說就是你的圖檔或影音檔變成標題造成近端錯誤
+
+* 簡單來說就是你的圖檔或影音檔變成標題造成近端錯誤
 只要把Config裡的Content刪除你的圖檔即可修復
 
 * 如何利用 variable 定義簡化繪圖流程.
-參數化可使同一零件全部一起更改尺寸不用在逐一更改，可省去一大半時間
 
-* Onshapeweek1 課程到 Onshapeweek2
+* 參數化可使同一零件全部一起更改尺寸不用在逐一更改，可省去一大半時間
+
+* Onshapeweek1 課程到 [Onshapeweek2 HW](https://youtu.be/21xvxzzyJUU)
 
 </t>
 <t tx="leo.20181103013217.1"></t>
@@ -603,5 +614,49 @@ DISQUS_SITENAME = "mdecadp2018"
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20181103014608.1">## 10/19學習內容
+
+* 利用 CMSimfly.leo升級最新的 CMSimfly 倉儲中的 flaskapp.py並且利用 Leo Editor 的 @auto 節點指令與 @clean 節點指令, 重新配置 cmsimfly.leo 開發專案檔.
+
+* 說明課程中, 有關人事時地物等關鍵內容的架構安排，以及課程行事曆的講解
+
+* 可以在 github issues 中納入 Youtube video 連結
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos
+
+* [Onshape Hw3](https://youtu.be/gATBE8LapKI)</t>
+<t tx="leo.20181103015434.1"></t>
+<t tx="leo.20181103015549.1">## 10/26學習內容
+
+* 說明使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程.
+
+* 1.可用更新flaskapp.py解決 但近端會消失所以必須clone你遠端的版本下來。
+
+* 說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM .
+
+* 1.最理想的分散式版次管理系統, 可以利用 git remote add, 將近端分組倉儲分別存放在 Github, Gitlab 與 Bitbucket 之外, 再利用 Fossil SCM 建立區域網路或廣域網路上的備份主機, 設法將上述各倉儲與近端保持同步.</t>
+<t tx="leo.20181103015944.1"></t>
+<t tx="leo.20181103015948.1">## 11/02學習內容
+
+* 所謂雲端=&gt;https://en.wikipedia.org/wiki/Cloud_computing
+
+* 把Onshape練習好並把自己的網站做完整
+
+* 準備期中考後的專題製作</t>
+<t tx="leo.20181103020254.1">##專題思考
+
+Onshape 零組件設計繪製與組立
+將零組件轉至 V-rep 進行運動模擬
+利用 Pyquino 與 V-rep (專題主題), 透過 https://github.com/slic3r/Slic3r 驅動 V-rep (專題主題), 進行模擬.
+
+Onshape 零組件如何轉入 V-rep?
+零組件轉入 V-rep 後, 如何以程式驅動, Python or Lua?
+Pyquino 如何與 V-rep 機電模型連接運用?
+STL 模型格式?
+Parasolid 模型格式?
+ACIS 模型格式?
+STEP 模型格式?
+G-code?
+TinkerCAD?
+3D printing?</t>
 </tnodes>
 </leo_file>

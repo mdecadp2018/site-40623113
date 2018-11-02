@@ -407,9 +407,9 @@ make.start()
 </t>
 <t tx="leo.20181102113247.1">## 上課筆記
 
-&lt;img src="https://i.screenshot.net/jvy7zuv"width="400" height="200"&gt;
-&lt;img src="https://screenshot.net/tw/pp4n1tj"width="400" height="200"&gt;
-&lt;img src="https://screenshot.net/tw/wg35ki0"width="400" height="200"&gt;
+&lt;img src="https://screenshot.net/tw/edmq4t9"width="400" height="200"&gt;
+&lt;img src="https://screenshot.net/tw/q9rpwf8"width="400" height="200"&gt;
+&lt;img src="https://screenshot.net/tw/4zq2xuw"width="400" height="200"&gt;
 </t>
 <t tx="leo.20181102231958.1">&lt;section&gt;
 @others

@@ -538,7 +538,10 @@ make.start()
 * 若要啟動 Pelican Blog 中的 disqus, 可以修改 config/pelican.leo 中, "Pelican 設定"節點下方的 @edit publishconf.py 內容, 指定 DISQUS_SITENAME:"mdecadp2018"
 &lt;img src="https://user-images.githubusercontent.com/20835445/45581029-6576f700-b8ca-11e8-8785-a66b6ca6a785.png"width="300" height="180"&gt;
 </t>
-<t tx="leo.20181103003956.1"></t>
+<t tx="leo.20181103003956.1">## 上課影片
+
+
+&lt;embed src="https://youtu.be/PNfuu95a3ns" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"&gt;&lt;/embed&gt;</t>
 <t tx="leo.20181103005548.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -629,7 +632,7 @@ https://github.com/mdecourse/cadp2018/issues/10
 <t tx="leo.20181103015434.1"></t>
 <t tx="leo.20181103015549.1">## 10/26學習內容
 
-*Onshape練習與網站更新
+* Onshape練習與網站更新
 
 * 說明使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程.
 

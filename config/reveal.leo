@@ -541,7 +541,8 @@ make.start()
 <t tx="leo.20181103003956.1">## 上課影片
 
 
-&lt;embed src="https://youtu.be/PNfuu95a3ns" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"&gt;&lt;/embed&gt;</t>
+
+&lt;iframe width="560" height="315" src="https://youtu.be/PNfuu95a3ns" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181103005548.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;

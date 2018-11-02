@@ -25,7 +25,9 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181102231958.1" a="E"><vh>W1</vh>
-<v t="leo.20181102232710.1"><vh>內容</vh></v>
+<v t="leo.20181102232710.1" a="E"><vh>內容</vh>
+<v t="leo.20181102235555.1"><vh>內容</vh></v>
+</v>
 </v>
 <v t="leo.20181102231958.2" a="E"><vh>W2</vh>
 <v t="leo.20181102232723.1"><vh>內容</vh></v>
@@ -51,7 +53,7 @@
 <v t="leo.20181102113201.1" a="E"><vh>筆記</vh>
 <v t="leo.20181102113247.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -384,7 +386,15 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181102232710.1">## 學習內容</t>
+<t tx="leo.20181102232710.1">## 09/14學習內容
+
+根據分組協同流程中學員須知準備隨身碟、耳機、麥克風與紙本筆記
+
+所有課程問題, 均在各週的對應 issues 中, 利用 github 以 comment 方式提出
+
+請學員登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業
+
+期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄</t>
 <t tx="leo.20181102232723.1">## W2</t>
 <t tx="leo.20181102232728.1">## W3</t>
 <t tx="leo.20181102233623.1">&lt;section data-markdown&gt;
@@ -417,5 +427,10 @@ make.start()
 <t tx="leo.20181102233700.1"></t>
 <t tx="leo.20181102233702.1"></t>
 <t tx="leo.20181102233704.1"></t>
+<t tx="leo.20181102235555.1">## What is Onshape?
+
+[SW WIKI](https://en.wikipedia.org/wiki/SolidWorks)
+
+[OS WIKI](https://en.wikipedia.org/wiki/Onshape)</t>
 </tnodes>
 </leo_file>

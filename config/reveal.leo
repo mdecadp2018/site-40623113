@@ -407,8 +407,9 @@ make.start()
 </t>
 <t tx="leo.20181102113247.1">## 上課筆記
 
-&lt;img src="https://screenshot.net/tw/edmq4t9"width="400" height="200"&gt;
-
+&lt;img src="https://scontent.fkhh1-2.fna.fbcdn.net/v/t1.0-9/r270/45193706_1456239611175395_9136644732909256704_n.jpg?_nc_cat=111&amp;_nc_ht=scontent.fkhh1-2.fna&amp;oh=bacdefef80d860b18a790a26e52d826e&amp;oe=5C76AD02"width="400" height="200"&gt;
+&lt;img src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/r270/45246017_1456239731175383_2888597516398362624_n.jpg?_nc_cat=102&amp;_nc_ht=scontent.fkhh1-1.fna&amp;oh=313affb6e5fb53423ac73e3adc0021a3&amp;oe=5C4A1318"width="400" height="200"&gt;
+&lt;img src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/r270/45367198_1456240071175349_3060844559874392064_n.jpg?_nc_cat=105&amp;_nc_ht=scontent.fkhh1-1.fna&amp;oh=1929e186c5fd2fc47ff9ed97bddc56da&amp;oe=5C806A73"width="400" height="200"&gt;
 </t>
 <t tx="leo.20181102231958.1">&lt;section&gt;
 @others

@@ -24,7 +24,16 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102113201.1" a="E"><vh>筆記</vh>
+<v t="leo.20181102231958.1" a="E"><vh>W1</vh>
+<v t="leo.20181102232710.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20181102231958.2" a="E"><vh>W2</vh>
+<v t="leo.20181102232723.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20181102231958.3" a="E"><vh>W3</vh>
+<v t="leo.20181102232728.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20181102113201.1"><vh>筆記</vh>
 <v t="leo.20181102113247.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -335,7 +344,32 @@ make.start()
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20181102113247.1">## 上課筆記</t>
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102113247.1">## 上課筆記
+
+&lt;img src="https://screenshot.net/tw/mm7q7i1"&gt;</t>
+<t tx="leo.20181102231958.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102231958.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102231958.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102232710.1">## W1</t>
+<t tx="leo.20181102232723.1">## W2</t>
+<t tx="leo.20181102232728.1">## W3</t>
 </tnodes>
 </leo_file>

@@ -28,15 +28,25 @@
 <v t="leo.20181103001425.1" a="E"><vh>內容</vh>
 <v t="leo.20181103001939.1"><vh>內容1</vh></v>
 </v>
-<v t="leo.20181102232710.1" a="E"><vh>內容</vh>
+<v t="leo.20181102232710.1"><vh>內容</vh>
 <v t="leo.20181103002003.1"><vh>內容1</vh></v>
 </v>
 </v>
 <v t="leo.20181102231958.2" a="E"><vh>W2</vh>
-<v t="leo.20181102232723.1"><vh>內容</vh></v>
+<v t="leo.20181103003947.1" a="E"><vh>內容</vh>
+<v t="leo.20181103003954.1"><vh>內容2</vh></v>
 </v>
-<v t="leo.20181102231958.3"><vh>W3</vh>
-<v t="leo.20181102232728.1"><vh>內容</vh></v>
+<v t="leo.20181102232723.1" a="E"><vh>內容</vh>
+<v t="leo.20181103003956.1"><vh>內容2</vh></v>
+</v>
+</v>
+<v t="leo.20181102231958.3" a="E"><vh>W3</vh>
+<v t="leo.20181102232728.1" a="E"><vh>內容</vh>
+<v t="leo.20181103005555.1"><vh>內容3</vh></v>
+</v>
+<v t="leo.20181103005548.1" a="E"><vh>內容</vh>
+<v t="leo.20181103005630.1"><vh>內容3</vh></v>
+</v>
 </v>
 <v t="leo.20181102233623.1" a="E"><vh>W4</vh>
 <v t="leo.20181102233651.1"><vh>內容</vh></v>
@@ -66,7 +76,7 @@
 <v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18"><vh>導入影片</vh>
+<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -377,17 +387,18 @@ make.start()
 
 
 </t>
-<t tx="leo.20181102231958.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181102231958.2">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
+
+
 </t>
-<t tx="leo.20181102231958.3">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181102231958.3">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
+
+
+
 </t>
 <t tx="leo.20181102232710.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -397,8 +408,20 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181102232723.1">## W2</t>
-<t tx="leo.20181102232728.1">## W3</t>
+<t tx="leo.20181102232723.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102232728.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20181102233623.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -450,5 +473,46 @@ make.start()
 *[SW WIKI](https://en.wikipedia.org/wiki/SolidWorks)
 
 *[OS WIKI](https://en.wikipedia.org/wiki/Onshape)</t>
+<t tx="leo.20181103003947.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181103003954.1">## 09/21學習內容
+
+* 期中作業倉儲,  每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中
+
+* 若要啟動 Pelican Blog 中的 disqus, 可以修改 config/pelican.leo 中, "Pelican 設定"節點下方的 @edit publishconf.py 內容, 指定 DISQUS_SITENAME:
+
+DISQUS_SITENAME = "mdecadp2018"
+
+&lt;img src="https://user-images.githubusercontent.com/20835445/45581029-6576f700-b8ca-11e8-8785-a66b6ca6a785.png"width="300" height="250"&gt;
+</t>
+<t tx="leo.20181103003956.1">## 上課影片
+
+&lt;iframe src="https://youtu.be/PNfuu95a3ns" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://youtu.be/hEkMv2KqixY" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181103005548.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181103005555.1">## 09/28學習內容
+
+* 期中作業倉儲,  每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中
+
+* 本課程在使用 Onshape 或其他 MCAD 完成設計系統繪圖組立後, 若需要進行動態系統模擬, 將使用 [V-rep](http://www.coppeliarobotics.com/)
+
+* [Onshape Hw1 練習](https://youtu.be/2haFLp3b4cA)</t>
+<t tx="leo.20181103005630.1">## 上課影片
+
+&lt;iframe src="https://youtu.be/PNfuu95a3ns" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://youtu.be/hEkMv2KqixY" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>

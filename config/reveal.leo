@@ -536,8 +536,7 @@ make.start()
 * 期中作業倉儲,  每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中
 
 * 若要啟動 Pelican Blog 中的 disqus, 可以修改 config/pelican.leo 中, "Pelican 設定"節點下方的 @edit publishconf.py 內容, 指定 DISQUS_SITENAME:"mdecadp2018"
-
-&lt;img src="https://user-images.githubusercontent.com/20835445/45581029-6576f700-b8ca-11e8-8785-a66b6ca6a785.png"width="300" height="200"&gt;
+&lt;img src="https://user-images.githubusercontent.com/20835445/45581029-6576f700-b8ca-11e8-8785-a66b6ca6a785.png"width="300" height="180"&gt;
 </t>
 <t tx="leo.20181103003956.1"></t>
 <t tx="leo.20181103005548.1">&lt;section data-markdown&gt;
@@ -630,12 +629,18 @@ https://github.com/mdecourse/cadp2018/issues/10
 <t tx="leo.20181103015434.1"></t>
 <t tx="leo.20181103015549.1">## 10/26學習內容
 
+*Onshape練習與網站更新
+
 * 說明使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程.
+
 * 1.可用更新flaskapp.py解決 但近端會消失所以必須clone你遠端的版本下來。
 
+</t>
+<t tx="leo.20181103015944.1">## Fossil SCM
+
 * 說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM .
+
 * 1.最理想的分散式版次管理系統, 可以利用 git remote add, 將近端分組倉儲分別存放在 Github, Gitlab 與 Bitbucket 之外, 再利用 Fossil SCM 建立區域網路或廣域網路上的備份主機, 設法將上述各倉儲與近端保持同步.</t>
-<t tx="leo.20181103015944.1"></t>
 <t tx="leo.20181103015948.1">## 11/02學習內容
 
 * 所謂雲端=&gt;https://en.wikipedia.org/wiki/Cloud_computing

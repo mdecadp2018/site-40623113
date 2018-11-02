@@ -28,7 +28,7 @@
 <v t="leo.20181103001425.1" a="E"><vh>內容</vh>
 <v t="leo.20181103001939.1"><vh>內容1</vh></v>
 </v>
-<v t="leo.20181102232710.1"><vh>內容</vh>
+<v t="leo.20181102232710.1" a="E"><vh>內容</vh>
 <v t="leo.20181103002003.1"><vh>內容1</vh></v>
 </v>
 </v>
@@ -57,16 +57,24 @@
 </v>
 </v>
 <v t="leo.20181102233623.2" a="E"><vh>W5</vh>
-<v t="leo.20181102233656.1"><vh>內容</vh></v>
+<v t="leo.20181102233656.1" a="E"><vh>內容</vh>
+<v t="leo.20181103013214.1"><vh>內容5</vh></v>
+</v>
+<v t="leo.20181103013134.1" a="E"><vh>內容</vh>
+<v t="leo.20181103013217.1"><vh>內容5</vh></v>
+</v>
 </v>
 <v t="leo.20181102233624.1" a="E"><vh>W6</vh>
 <v t="leo.20181102233700.1"><vh>內容</vh></v>
+<v t="leo.20181103013312.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20181102233624.2" a="E"><vh>W7</vh>
 <v t="leo.20181102233702.1"><vh>內容</vh></v>
+<v t="leo.20181103013324.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20181102233624.3" a="E"><vh>W8</vh>
 <v t="leo.20181102233704.1"><vh>內容</vh></v>
+<v t="leo.20181103013333.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20181102113201.1" a="E"><vh>筆記</vh>
 <v t="leo.20181102113247.1"><vh>內容</vh></v>
@@ -427,30 +435,23 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181102233623.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181102233623.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20181102233623.2">&lt;section&gt;
+@others
 &lt;/section&gt;</t>
-<t tx="leo.20181102233623.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181102233624.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20181102233624.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181102233624.2">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20181102233624.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181102233624.3">&lt;section&gt;
 @others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20181102233624.3">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20181102233651.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -459,10 +460,34 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181102233656.1"></t>
-<t tx="leo.20181102233700.1"></t>
-<t tx="leo.20181102233702.1"></t>
-<t tx="leo.20181102233704.1"></t>
+<t tx="leo.20181102233656.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102233700.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102233702.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102233704.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20181103001425.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -501,11 +526,7 @@ DISQUS_SITENAME = "mdecadp2018"
 
 &lt;img src="https://user-images.githubusercontent.com/20835445/45581029-6576f700-b8ca-11e8-8785-a66b6ca6a785.png"width="300" height="250"&gt;
 </t>
-<t tx="leo.20181103003956.1">## 上課影片
-
-&lt;iframe src="https://youtu.be/PNfuu95a3ns" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe src="https://youtu.be/hEkMv2KqixY" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181103003956.1"></t>
 <t tx="leo.20181103005548.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -522,11 +543,7 @@ DISQUS_SITENAME = "mdecadp2018"
 * Git指令練習
 
 * [Onshape Hw1 練習](https://youtu.be/2haFLp3b4cA)</t>
-<t tx="leo.20181103005630.1">## 上課影片
-
-&lt;iframe src="https://youtu.be/PNfuu95a3ns" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe src="https://youtu.be/hEkMv2KqixY" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181103005630.1"></t>
 <t tx="leo.20181103011311.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -544,10 +561,47 @@ DISQUS_SITENAME = "mdecadp2018"
 2.以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.改版後要轉靜態網頁
 
 *[Onshape Featurescript](https://www.onshape.com/features/custom-features)</t>
-<t tx="leo.20181103012252.1">## 上課影片
+<t tx="leo.20181103012252.1"></t>
+<t tx="leo.20181103013134.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181103013214.1">## 10/12學習內容
 
-&lt;iframe src="https://youtu.be/nMU9bYx0vPc" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+* Pelican blog 重複 slug 設定處理.
+簡單來說就是你的圖檔或影音檔變成標題造成近端錯誤
+只要把Config裡的Content刪除你的圖檔即可修復
 
-&lt;iframe src="https://youtu.be/UdYcuRKS6o4" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+* 如何利用 variable 定義簡化繪圖流程.
+參數化可使同一零件全部一起更改尺寸不用在逐一更改，可省去一大半時間
+
+* Onshapeweek1 課程到 Onshapeweek2
+
+</t>
+<t tx="leo.20181103013217.1"></t>
+<t tx="leo.20181103013312.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181103013324.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181103013333.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>

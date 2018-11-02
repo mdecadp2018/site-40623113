@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623113 網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623113/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623113/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623113/blog/</id><updated>2018-10-26T09:30:00+08:00</updated><entry><title>W7上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W7.html" rel="alternate"></link><published>2018-10-26T09:30:00+08:00</published><updated>2018-10-26T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623113/blog/40623113-W7.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L7&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623113 網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623113/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623113/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623113/blog/</id><updated>2018-11-02T09:30:00+08:00</updated><entry><title>W8上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W8.html" rel="alternate"></link><published>2018-11-02T09:30:00+08:00</published><updated>2018-11-02T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623113/blog/40623113-W8.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L8&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;電腦輔助設計實習 L8&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.onshape.com/"&gt;Onshape&lt;/a&gt; 與電腦輔助設計&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.onshape.com/"&gt;Onshape&lt;/a&gt; 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔助機械設計繪圖, 此一雲端工具在假設網路無所不在的環境中, 新產品開發團隊成員可以利用雲般無所不在, 且毫無限制的電腦輔助設計套件, 協同完成各式零組件的設計與繪製&lt;/p&gt;
+&lt;p&gt;所謂雲端-雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少&lt;/p&gt;
+&lt;p&gt;電腦輔助設計專題介紹&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;一個學期已經過了一半，其實很清楚自己學到了什麼，包括cmsimfly、blog、reveal的編輯和許多錯誤的解決等等，onshape也蠻讓我開眼界的，參數法真的是很好用，之前學SW也沒有學到這種強大的功能，藉由onshape我的英文口袋也變深了不少，接下來就是分組專題了，希望能把握這次機會學到更多東西。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W7上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W7.html" rel="alternate"></link><published>2018-10-26T09:30:00+08:00</published><updated>2018-10-26T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623113/blog/40623113-W7.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L7&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;電腦輔助設計實習 L7&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
-&lt;p&gt;TEST 1&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W6上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W6.html" rel="alternate"></link><published>2018-10-19T09:30:00+08:00</published><updated>2018-10-19T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623113/blog/40623113-W6.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L6&lt;/p&gt;
+&lt;p&gt;說明在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程.&lt;/p&gt;
+&lt;p&gt;說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM&lt;/p&gt;
+&lt;p&gt;最理想的分散式版次管理系統, 可以利用 git remote add, 將近端分組倉儲分別存放在 Github, Gitlab 與 Bitbucket 之外, 再利用 Fossil SCM 建立區域網路或廣域網路上的備份主機, 設法將上述各倉儲與近端保持同步.&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;第7周一開始發現2樣問題&lt;/p&gt;
+&lt;p&gt;1.GITHUB無法登入&lt;/p&gt;
+&lt;p&gt;2.Cmsumfly近端錯誤&lt;/p&gt;
+&lt;p&gt;主要原因是網路裝置與資料庫故障, 導致發生github無法登入&lt;/p&gt;
+&lt;p&gt;另外近端錯誤我認為是圖片或影片變成標題所導致的，因為之前就發生過不少次，都是去Config-&amp;gt;content裡面把錯誤的圖檔或影音檔刪除解決，不然就是更新Flaskapp.py在clone自己的倉儲即可回復，所以再次出現錯誤時就能不疾不徐的解決啦。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>W6上課內容</title><link href="https://mdecadp2018.github.io/site-40623113/blog/40623113-W6.html" rel="alternate"></link><published>2018-10-19T09:30:00+08:00</published><updated>2018-10-19T09:30:00+08:00</updated><author><name>40623113</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623113/blog/40623113-W6.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習 L6&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;電腦輔助設計實習 L6&lt;/p&gt;
 
 

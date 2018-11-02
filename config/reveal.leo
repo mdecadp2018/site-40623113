@@ -409,9 +409,6 @@ make.start()
 
 &lt;img src="https://screenshot.net/tw/edmq4t9"width="400" height="200"&gt;
 
-&lt;img src="https://screenshot.net/tw/q9rpwf8"width="400" height="200"&gt;
-
-&lt;img src="https://screenshot.net/tw/4zq2xuw"width="400" height="200"&gt;
 </t>
 <t tx="leo.20181102231958.1">&lt;section&gt;
 @others

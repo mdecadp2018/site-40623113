@@ -388,13 +388,10 @@ make.start()
 </t>
 <t tx="leo.20181102232710.1">## 09/14學習內容
 
-根據分組協同流程中學員須知準備隨身碟、耳機、麥克風與紙本筆記
-
-所有課程問題, 均在各週的對應 issues 中, 利用 github 以 comment 方式提出
-
-請學員登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業
-
-期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄</t>
+*根據分組協同流程中學員須知準備隨身碟、耳機、麥克風與紙本筆記
+*所有課程問題, 均在各週的對應 issues 中, 利用 github 以 comment 方式提出
+*請學員登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業
+*期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄</t>
 <t tx="leo.20181102232723.1">## W2</t>
 <t tx="leo.20181102232728.1">## W3</t>
 <t tx="leo.20181102233623.1">&lt;section data-markdown&gt;
@@ -429,8 +426,7 @@ make.start()
 <t tx="leo.20181102233704.1"></t>
 <t tx="leo.20181102235555.1">## What is Onshape?
 
-[SW WIKI](https://en.wikipedia.org/wiki/SolidWorks)
-
-[OS WIKI](https://en.wikipedia.org/wiki/Onshape)</t>
+*[SW WIKI](https://en.wikipedia.org/wiki/SolidWorks)
+*[OS WIKI](https://en.wikipedia.org/wiki/Onshape)</t>
 </tnodes>
 </leo_file>

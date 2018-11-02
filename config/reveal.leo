@@ -49,7 +49,12 @@
 </v>
 </v>
 <v t="leo.20181102233623.1" a="E"><vh>W4</vh>
-<v t="leo.20181102233651.1"><vh>內容</vh></v>
+<v t="leo.20181102233651.1" a="E"><vh>內容</vh>
+<v t="leo.20181103011319.1"><vh>內容4</vh></v>
+</v>
+<v t="leo.20181103011311.1" a="E"><vh>內容</vh>
+<v t="leo.20181103012252.1"><vh>內容4</vh></v>
+</v>
 </v>
 <v t="leo.20181102233623.2" a="E"><vh>W5</vh>
 <v t="leo.20181102233656.1"><vh>內容</vh></v>
@@ -447,7 +452,13 @@ make.start()
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20181102233651.1"></t>
+<t tx="leo.20181102233651.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20181102233656.1"></t>
 <t tx="leo.20181102233700.1"></t>
 <t tx="leo.20181102233702.1"></t>
@@ -508,11 +519,35 @@ DISQUS_SITENAME = "mdecadp2018"
 
 * 本課程在使用 Onshape 或其他 MCAD 完成設計系統繪圖組立後, 若需要進行動態系統模擬, 將使用 [V-rep](http://www.coppeliarobotics.com/)
 
+* Git指令練習
+
 * [Onshape Hw1 練習](https://youtu.be/2haFLp3b4cA)</t>
 <t tx="leo.20181103005630.1">## 上課影片
 
 &lt;iframe src="https://youtu.be/PNfuu95a3ns" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;iframe src="https://youtu.be/hEkMv2KqixY" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181103011311.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181103011319.1">## 10/05學習內容
+
+* 期中作業倉儲,  每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中、練習Onshape
+
+*  CMSimfly, Reveal, Pelican Blog 管理方法說明
+
+1.利用 git checkout 從內定的 master 分支, 切換到 gh-pages
+2.以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.改版後要轉靜態網頁
+
+*[Onshape Featurescript](https://www.onshape.com/features/custom-features)</t>
+<t tx="leo.20181103012252.1">## 上課影片
+
+&lt;iframe src="https://youtu.be/nMU9bYx0vPc" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://youtu.be/UdYcuRKS6o4" width="320" height="246" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>

@@ -30,8 +30,23 @@
 <v t="leo.20181102231958.2" a="E"><vh>W2</vh>
 <v t="leo.20181102232723.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20181102231958.3" a="E"><vh>W3</vh>
+<v t="leo.20181102231958.3"><vh>W3</vh>
 <v t="leo.20181102232728.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20181102233623.1" a="E"><vh>W4</vh>
+<v t="leo.20181102233651.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20181102233623.2" a="E"><vh>W5</vh>
+<v t="leo.20181102233656.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20181102233624.1" a="E"><vh>W6</vh>
+<v t="leo.20181102233700.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20181102233624.2" a="E"><vh>W7</vh>
+<v t="leo.20181102233702.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20181102233624.3" a="E"><vh>W8</vh>
+<v t="leo.20181102233704.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20181102113201.1" a="E"><vh>筆記</vh>
 <v t="leo.20181102113247.1"><vh>內容</vh></v>
@@ -349,7 +364,8 @@ make.start()
 </t>
 <t tx="leo.20181102113247.1">## 上課筆記
 
-&lt;img src="https://screenshot.net/tw/mm7q7i1"width="200" height="100"&gt;</t>
+&lt;img src="https://pic1.zhimg.com/80/1f07a3a53308e972c68ee4c000cb72e8_hd.jpg"width="200" height="100"&gt;
+</t>
 <t tx="leo.20181102231958.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -368,8 +384,38 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181102232710.1">## W1</t>
+<t tx="leo.20181102232710.1">## 學習內容</t>
 <t tx="leo.20181102232723.1">## W2</t>
 <t tx="leo.20181102232728.1">## W3</t>
+<t tx="leo.20181102233623.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181102233623.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181102233624.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181102233624.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181102233624.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181102233651.1"></t>
+<t tx="leo.20181102233656.1"></t>
+<t tx="leo.20181102233700.1"></t>
+<t tx="leo.20181102233702.1"></t>
+<t tx="leo.20181102233704.1"></t>
 </tnodes>
 </leo_file>

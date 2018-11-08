@@ -40,7 +40,7 @@
 <v t="leo.20181103003956.1"><vh>內容2</vh></v>
 </v>
 </v>
-<v t="leo.20181102231958.3"><vh>W3</vh>
+<v t="leo.20181102231958.3" a="E"><vh>W3</vh>
 <v t="leo.20181102232728.1"><vh>內容</vh>
 <v t="leo.20181103005555.1"><vh>內容3</vh></v>
 </v>
@@ -48,7 +48,7 @@
 <v t="leo.20181103005630.1"><vh>內容3</vh></v>
 </v>
 </v>
-<v t="leo.20181102233623.1"><vh>W4</vh>
+<v t="leo.20181102233623.1" a="E"><vh>W4</vh>
 <v t="leo.20181102233651.1" a="E"><vh>內容</vh>
 <v t="leo.20181103011319.1"><vh>內容4</vh></v>
 </v>
@@ -56,7 +56,7 @@
 <v t="leo.20181103012252.1"><vh>內容4</vh></v>
 </v>
 </v>
-<v t="leo.20181102233623.2"><vh>W5</vh>
+<v t="leo.20181102233623.2" a="E"><vh>W5</vh>
 <v t="leo.20181102233656.1" a="E"><vh>內容</vh>
 <v t="leo.20181103013214.1"><vh>內容5</vh></v>
 </v>
@@ -64,7 +64,7 @@
 <v t="leo.20181103013217.1"><vh>內容5</vh></v>
 </v>
 </v>
-<v t="leo.20181102233624.1"><vh>W6</vh>
+<v t="leo.20181102233624.1" a="E"><vh>W6</vh>
 <v t="leo.20181102233700.1" a="E"><vh>內容</vh>
 <v t="leo.20181103014608.1"><vh>內容6</vh></v>
 </v>
@@ -558,7 +558,7 @@ make.start()
 <t tx="leo.20181103003956.1">## 上課影片
 
 &lt;iframe width="400" height="434" src="https://www.youtube.com/embed/hEkMv2KqixY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;iframe width="400" height="434" src="https://www.youtube.com/embed/PNfuu95a3ns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+</t>
 <t tx="leo.20181103005548.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -577,7 +577,9 @@ make.start()
 * [Onshape Hw1 練習](https://youtu.be/2haFLp3b4cA)
 
 </t>
-<t tx="leo.20181103005630.1"></t>
+<t tx="leo.20181103005630.1">## 上課影片
+
+&lt;iframe width="746" height="534" src="https://www.youtube.com/embed/158Ir6Mni60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181103011311.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -596,7 +598,9 @@ make.start()
 *[Onshape Featurescript](https://www.onshape.com/features/custom-features)
 
 </t>
-<t tx="leo.20181103012252.1"></t>
+<t tx="leo.20181103012252.1">## 上課影片
+
+&lt;iframe width="694" height="534" src="https://www.youtube.com/embed/nMU9bYx0vPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181103013134.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -618,7 +622,9 @@ make.start()
 * Onshapeweek1 課程到 [Onshapeweek2 HW](https://youtu.be/21xvxzzyJUU)
 
 </t>
-<t tx="leo.20181103013217.1"></t>
+<t tx="leo.20181103013217.1">## 上課影片
+
+&lt;iframe width="668" height="534" src="https://www.youtube.com/embed/GE48pZWK8vI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181103013312.1">&lt;/section&gt;
 &lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -651,7 +657,7 @@ https://github.com/mdecourse/cadp2018/issues/10
 
 * [Onshape Hw3](https://youtu.be/gATBE8LapKI)
 </t>
-<t tx="leo.20181103015434.1"></t>
+<t tx="leo.20181103015434.1">## 上課影片</t>
 <t tx="leo.20181103015549.1">## 10/26學習內容
 
 * Onshape練習與網站更新

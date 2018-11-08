@@ -557,9 +557,8 @@ make.start()
 </t>
 <t tx="leo.20181103003956.1">## 上課影片
 
-&lt;iframe width="694" height="534" src="https://www.youtube.com/embed/hEkMv2KqixY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="694" height="534" src="https://www.youtube.com/embed/PNfuu95a3ns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="400" height="434" src="https://www.youtube.com/embed/hEkMv2KqixY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="400" height="434" src="https://www.youtube.com/embed/PNfuu95a3ns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181103005548.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;

@@ -2,13 +2,15 @@
   position: relative;
 }
 header{
-  background: #ccc;
+
+
+  text-shadow:5px 12px 15px #000000;
   padding: 20px;
 }
 confmenu
 {
 	#width: 800px;
-	background: #333;
+	background: #33FF33;
 	margin-bottom: 10px;
 }
 confmenu ul
@@ -28,7 +30,7 @@ confmenu li a
 	float: left;
 	padding: 5px 10px;
 	color: #fff;
-	background: #333;
+	background: #008800;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -112,7 +114,7 @@ ul#css3menu1 a{
 	text-align:left;
 	text-decoration:none;
 	font:17px Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
-	color:#000000;
+	color:#191970;
 	cursor:pointer;
 	padding:7px 12px;
 	background-color:;
@@ -133,7 +135,7 @@ ul#css3menu1 ul a{
 	-moz-border-radius:5px;
 	-webkit-border-radius:5px;
 	font:14px Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
-	color:#000000;
+	color:#8C0044;
 	text-decoration:none;
 }
 ul#css3menu1 li:hover>a,ul#css3menu1 li a.pressed{
@@ -141,7 +143,7 @@ ul#css3menu1 li:hover>a,ul#css3menu1 li a.pressed{
 	/* mouse hover color */
 	color:#FFCC00;
 	text-decoration:none;
-	background-color:#333
+	background-color:#003C9D
 }
 ul#css3menu1 img{
 	border:none;
@@ -180,14 +182,14 @@ ul#css3menu1 li.topmenu:hover>a,ul#css3menu1 li.topmenu a.pressed{
     margin-left: 12px;	
     border-top: 3px solid transparent;
     border-bottom: 3px solid transparent;
-    border-left: 3px solid #666;		
+    border-left: 3px solid #990099;		
     width: 1px;
     height: 1px;
 }
 /* ends unordered list menu*/
 
 section {
-/* position is static by default */
+/* position is static by default */background-color: rgba(255,230,255,0.6);
 line-height: 180%;
 margin-left: 200px;
 width: 600px;
@@ -201,7 +203,7 @@ background-color: white;
 width: 195px;
 }
 body {
-  margin-bottom: 120px;
-  background-image: url(https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg);
+  
+  background-image: url(https://cdn.pixabay.com/photo/2017/03/09/12/04/pink-2129508_1280.jpg);
 }
 

@@ -557,7 +557,7 @@ make.start()
 </t>
 <t tx="leo.20181103003956.1">## 上課影片
 
-&lt;iframe width="400" height="434" src="https://www.youtube.com/embed/hEkMv2KqixY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="694" height="534" src="https://www.youtube.com/embed/hEkMv2KqixY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181103005548.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -657,7 +657,9 @@ https://github.com/mdecourse/cadp2018/issues/10
 
 * [Onshape Hw3](https://youtu.be/gATBE8LapKI)
 </t>
-<t tx="leo.20181103015434.1">## 上課影片</t>
+<t tx="leo.20181103015434.1">## 上課影片
+
+&lt;iframe width="694" height="534" src="https://www.youtube.com/embed/i0zDhlxAJmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181103015549.1">## 10/26學習內容
 
 * Onshape練習與網站更新

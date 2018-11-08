@@ -32,7 +32,7 @@
 <v t="leo.20181103002003.1"><vh>內容1</vh></v>
 </v>
 </v>
-<v t="leo.20181102231958.2"><vh>W2</vh>
+<v t="leo.20181102231958.2" a="E"><vh>W2</vh>
 <v t="leo.20181103003947.1" a="E"><vh>內容</vh>
 <v t="leo.20181103003954.1"><vh>內容2</vh></v>
 </v>
@@ -460,16 +460,27 @@ make.start()
 </t>
 <t tx="leo.20181102233623.2">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102233624.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102233624.2">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102233624.3">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102233651.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -488,8 +499,8 @@ make.start()
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;
 </t>
 <t tx="leo.20181102233702.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -520,12 +531,16 @@ make.start()
 
 *  https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
 
-* 期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程</t>
+* 期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程
+
+</t>
 <t tx="leo.20181103002003.1">## What is Onshape?
 
 *[SW WIKI](https://en.wikipedia.org/wiki/SolidWorks)
 
-*[OS WIKI](https://en.wikipedia.org/wiki/Onshape)</t>
+*[OS WIKI](https://en.wikipedia.org/wiki/Onshape)
+
+</t>
 <t tx="leo.20181103003947.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -542,9 +557,9 @@ make.start()
 </t>
 <t tx="leo.20181103003956.1">## 上課影片
 
+&lt;iframe width="694" height="534" src="https://www.youtube.com/embed/hEkMv2KqixY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-
-&lt;iframe width="560" height="315" src="https://youtu.be/PNfuu95a3ns" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="694" height="534" src="https://www.youtube.com/embed/PNfuu95a3ns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181103005548.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -560,7 +575,9 @@ make.start()
 
 * Git指令練習
 
-* [Onshape Hw1 練習](https://youtu.be/2haFLp3b4cA)</t>
+* [Onshape Hw1 練習](https://youtu.be/2haFLp3b4cA)
+
+</t>
 <t tx="leo.20181103005630.1"></t>
 <t tx="leo.20181103011311.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -577,7 +594,9 @@ make.start()
 
 * 2.以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.改版後要轉靜態網頁
 
-*[Onshape Featurescript](https://www.onshape.com/features/custom-features)</t>
+*[Onshape Featurescript](https://www.onshape.com/features/custom-features)
+
+</t>
 <t tx="leo.20181103012252.1"></t>
 <t tx="leo.20181103013134.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -601,19 +620,19 @@ make.start()
 
 </t>
 <t tx="leo.20181103013217.1"></t>
-<t tx="leo.20181103013312.1">&lt;section data-markdown&gt;
+<t tx="leo.20181103013312.1">&lt;/section&gt;
+&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
     &lt;/script&gt;
-&lt;/section&gt;
 </t>
 <t tx="leo.20181103013324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;
 </t>
 <t tx="leo.20181103013333.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -631,7 +650,8 @@ make.start()
 * 可以在 github issues 中納入 Youtube video 連結
 https://github.com/mdecourse/cadp2018/issues/10
 
-* [Onshape Hw3](https://youtu.be/gATBE8LapKI)</t>
+* [Onshape Hw3](https://youtu.be/gATBE8LapKI)
+</t>
 <t tx="leo.20181103015434.1"></t>
 <t tx="leo.20181103015549.1">## 10/26學習內容
 
@@ -646,14 +666,17 @@ https://github.com/mdecourse/cadp2018/issues/10
 
 * 說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM .
 
-* 1.最理想的分散式版次管理系統, 可以利用 git remote add, 將近端分組倉儲分別存放在 Github, Gitlab 與 Bitbucket 之外, 再利用 Fossil SCM 建立區域網路或廣域網路上的備份主機, 設法將上述各倉儲與近端保持同步.</t>
+* 1.最理想的分散式版次管理系統, 可以利用 git remote add, 將近端分組倉儲分別存放在 Github, Gitlab 與 Bitbucket 之外, 再利用 Fossil SCM 建立區域網路或廣域網路上的備份主機, 設法將上述各倉儲與近端保持同步.
+</t>
 <t tx="leo.20181103015948.1">## 11/02學習內容
 
 * 所謂雲端=&gt;https://en.wikipedia.org/wiki/Cloud_computing
 
 * 把Onshape練習好並把自己的網站做完整
 
-* 準備期中考後的專題製作</t>
+* 準備期中考後的專題製作
+
+</t>
 <t tx="leo.20181103020254.1">##專題模擬
 
 * Onshape 零組件設計繪製與組立
@@ -665,8 +688,8 @@ https://github.com/mdecourse/cadp2018/issues/10
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;
 </t>
 <t tx="leo.20181103021147.1">## 專題思考
 
@@ -679,6 +702,7 @@ https://github.com/mdecourse/cadp2018/issues/10
 * STEP 模型格式?
 * G-code?
 * TinkerCAD?
-* 3D printing?</t>
+* 3D printing?
+</t>
 </tnodes>
 </leo_file>

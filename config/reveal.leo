@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20180827201556.1"><vh>@settings</vh>
+<v t="leo.20180827201556.1" a="E"><vh>@settings</vh>
 <v t="leo.20180827201556.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180827201556.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -21,87 +21,58 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102231958.1"><vh>W1</vh>
+<v t="leo.20181102231958.1"><vh>1</vh>
 <v t="leo.20181103001425.1" a="E"><vh>內容</vh>
 <v t="leo.20181103001939.1"><vh>內容1</vh></v>
 </v>
-<v t="leo.20181102232710.1" a="E"><vh>內容</vh>
-<v t="leo.20181103002003.1"><vh>內容1</vh></v>
 </v>
-</v>
-<v t="leo.20181102231958.2" a="E"><vh>W2</vh>
+<v t="leo.20181102231958.2"><vh>2</vh>
 <v t="leo.20181103003947.1" a="E"><vh>內容</vh>
 <v t="leo.20181103003954.1"><vh>內容2</vh></v>
 </v>
-<v t="leo.20181102232723.1" a="E"><vh>內容</vh>
-<v t="leo.20181103003956.1"><vh>內容2</vh></v>
 </v>
-</v>
-<v t="leo.20181102231958.3" a="E"><vh>W3</vh>
-<v t="leo.20181102232728.1"><vh>內容</vh>
+<v t="leo.20181102231958.3"><vh>3</vh>
+<v t="leo.20181102232728.1" a="E"><vh>內容</vh>
 <v t="leo.20181103005555.1"><vh>內容3</vh></v>
 </v>
-<v t="leo.20181103005548.1" a="E"><vh>內容</vh>
-<v t="leo.20181103005630.1"><vh>內容3</vh></v>
 </v>
-</v>
-<v t="leo.20181102233623.1" a="E"><vh>W4</vh>
-<v t="leo.20181102233651.1" a="E"><vh>內容</vh>
+<v t="leo.20181102233623.1"><vh>4</vh>
+<v t="leo.20181102233651.1"><vh>內容</vh>
 <v t="leo.20181103011319.1"><vh>內容4</vh></v>
 </v>
-<v t="leo.20181103011311.1" a="E"><vh>內容</vh>
+<v t="leo.20181103011311.1"><vh>內容</vh>
 <v t="leo.20181103012252.1"><vh>內容4</vh></v>
 </v>
+<v t="leo.20190610042418.1"><vh>內容</vh>
+<v t="leo.20190610042422.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20181102233623.2" a="E"><vh>W5</vh>
-<v t="leo.20181102233656.1" a="E"><vh>內容</vh>
+</v>
+<v t="leo.20181102233623.2"><vh>5</vh>
+<v t="leo.20181102233656.1"><vh>內容</vh>
 <v t="leo.20181103013214.1"><vh>內容5</vh></v>
 </v>
-<v t="leo.20181103013134.1" a="E"><vh>內容</vh>
-<v t="leo.20181103013217.1"><vh>內容5</vh></v>
 </v>
-</v>
-<v t="leo.20181102233624.1" a="E"><vh>W6</vh>
+<v t="leo.20181102233624.1"><vh>W6</vh>
 <v t="leo.20181102233700.1" a="E"><vh>內容</vh>
 <v t="leo.20181103014608.1"><vh>內容6</vh></v>
 </v>
-<v t="leo.20181103013312.1" a="E"><vh>內容</vh>
-<v t="leo.20181103015434.1"><vh>內容6</vh></v>
 </v>
-</v>
-<v t="leo.20181102233624.2"><vh>W7</vh>
+<v t="leo.20181102233624.2" a="E"><vh>W7</vh>
 <v t="leo.20181102233702.1" a="E"><vh>內容</vh>
 <v t="leo.20181103015549.1"><vh>內容7</vh></v>
 </v>
-<v t="leo.20181103013324.1" a="E"><vh>內容</vh>
-<v t="leo.20181103015944.1"><vh>內容7</vh></v>
 </v>
-</v>
-<v t="leo.20181102233624.3"><vh>W8</vh>
-<v t="leo.20181102233704.1" a="E"><vh>內容</vh>
-<v t="leo.20181103015948.1"><vh>內容8</vh></v>
-</v>
-<v t="leo.20181103013333.1" a="E"><vh>內容</vh>
-<v t="leo.20181103020254.1"><vh>內容8</vh></v>
-</v>
-<v t="leo.20181103021142.1" a="E"><vh>內容</vh>
-<v t="leo.20181103021147.1"><vh>內容8</vh></v>
-</v>
-</v>
-<v t="leo.20181102113201.1" a="E"><vh>筆記</vh>
-<v t="leo.20181102113247.1"><vh>內容</vh></v>
-</v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
@@ -194,7 +165,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 網際簡報
+<t tx="leo.20180827201621.10">## 協同產品設計實習簡報
 
 ## 40623113
 
@@ -204,7 +175,7 @@ vertical: body pane on the botton</t>
 Created by [吳承哲](https://mdecadp2018.github.io/site-40623113/content/index.html)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[小組網站](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g4/content/index.htmll)
 
 
 </t>
@@ -318,7 +289,7 @@ make.start()
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2018 Fall 分組網際簡報
+協同產品設計實習簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -398,19 +369,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181102113201.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181102113247.1">## 上課筆記
-
-&lt;img src="https://scontent.fkhh1-2.fna.fbcdn.net/v/t1.0-9/r270/45193706_1456239611175395_9136644732909256704_n.jpg?_nc_cat=111&amp;_nc_ht=scontent.fkhh1-2.fna&amp;oh=bacdefef80d860b18a790a26e52d826e&amp;oe=5C76AD02"width="200" height="400"&gt;
-&lt;img src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/r270/45246017_1456239731175383_2888597516398362624_n.jpg?_nc_cat=102&amp;_nc_ht=scontent.fkhh1-1.fna&amp;oh=313affb6e5fb53423ac73e3adc0021a3&amp;oe=5C4A1318"width="200" height="400"&gt;
-&lt;img src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/r270/45367198_1456240071175349_3060844559874392064_n.jpg?_nc_cat=105&amp;_nc_ht=scontent.fkhh1-1.fna&amp;oh=1929e186c5fd2fc47ff9ed97bddc56da&amp;oe=5C806A73"width="200" height="400"&gt;
-</t>
 <t tx="leo.20181102231958.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -429,21 +387,6 @@ make.start()
 
 
 
-</t>
-<t tx="leo.20181102232710.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181102232723.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
 </t>
 <t tx="leo.20181102232728.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -470,12 +413,6 @@ make.start()
 
 </t>
 <t tx="leo.20181102233624.2">&lt;section&gt;
-@others
-&lt;/section&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181102233624.3">&lt;section&gt;
 @others
 &lt;/section&gt;
 &lt;/section&gt;
@@ -509,13 +446,6 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181102233704.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
 <t tx="leo.20181103001425.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -523,22 +453,14 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181103001939.1">### 09/14學習內容
-
-* 根據分組協同流程中學員須知準備隨身碟、耳機、麥克風與紙本筆記
-
-* 所有課程問題, 均在各週的對應 issues 中, 利用 github 以 comment 方式提出
-
-*  https://classroom.github.com/a/fGqXU9kO 領取個人的期中作業
-
-* 期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程
-
-</t>
-<t tx="leo.20181103002003.1">## What is Onshape?
-
-*[SW WIKI](https://en.wikipedia.org/wiki/SolidWorks)
-
-*[OS WIKI](https://en.wikipedia.org/wiki/Onshape)
+<t tx="leo.20181103001939.1">### 目錄
+* onshape
+* V-REP模擬
+* 手足球系統模擬
+* 倉儲推送
+* 貢獻
+* 自評
+*結論
 
 </t>
 <t tx="leo.20181103003947.1">&lt;section data-markdown&gt;
@@ -548,38 +470,20 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181103003954.1">## 09/21學習內容
+<t tx="leo.20181103003954.1">## Onshape
 
-* 期中作業倉儲,  每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中
+我們組的其實蠻快就分很工了
+每個1~2人負責一個工作這樣
+而我負責的是模擬跟程式的部分
+除了提供意見或想法，另外就是提醒或與構思
 
-* 若要啟動 Pelican Blog 中的 disqus, 可以修改 config/pelican.leo 中, "Pelican 設定"節點下方的 @edit publishconf.py 內容, 指定 DISQUS_SITENAME:"mdecadp2018"
-&lt;img src="https://user-images.githubusercontent.com/20835445/45581029-6576f700-b8ca-11e8-8785-a66b6ca6a785.png"width="300" height="180"&gt;
-</t>
-<t tx="leo.20181103003956.1">## 上課影片
 
-&lt;iframe width="694" height="534" src="https://www.youtube.com/embed/hEkMv2KqixY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="leo.20181103005548.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181103005555.1">## 09/28學習內容
+[網站有完整的過程](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g4/content/index.html)</t>
+<t tx="leo.20181103005555.1">## v-rep 模擬
 
-* 期中作業倉儲,  每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中
+測試模擬的時候因為圖檔尚未完成，所以24自己畫一個簡易的圖檔來進行模擬並簡化，之後我也自行畫一個簡易版的但沒有簡化，最終採用24號的進行模擬。包括差軸、設定樹狀圖、碰撞等等
 
-* 本課程在使用 Onshape 或其他 MCAD 完成設計系統繪圖組立後, 若需要進行動態系統模擬, 將使用 [V-rep](http://www.coppeliarobotics.com/)
-
-* Git指令練習
-
-* [Onshape Hw1 練習](https://youtu.be/2haFLp3b4cA)
-
-</t>
-<t tx="leo.20181103005630.1">## 上課影片
-
-&lt;iframe width="746" height="534" src="https://www.youtube.com/embed/158Ir6Mni60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;img src="https://i.imgur.com/mlr8Ve9.jpg"width="400" height="250"&gt;</t>
 <t tx="leo.20181103011311.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -587,129 +491,54 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181103011319.1">## 10/05學習內容
+<t tx="leo.20181103011319.1">## 手足球雙人對打
 
-*  CMSimfly, Reveal, Pelican Blog 管理方法說明
+原本第3組根第1組做的稍快
+所以就問了他們相關的程式
+&lt;iframe width="694" height="534" src="https://youtu.be/_rg5RIhGJVw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-* 1.利用 git checkout 從內定的 master 分支, 切換到 gh-pages
-
-* 2.以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.改版後要轉靜態網頁
-
-*[Onshape Featurescript](https://www.onshape.com/features/custom-features)
 
 </t>
-<t tx="leo.20181103012252.1">## 上課影片
+<t tx="leo.20181103012252.1">## 手足球手控跟電腦打
 
-&lt;iframe width="694" height="534" src="https://www.youtube.com/embed/nMU9bYx0vPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20181103013134.1">&lt;section data-markdown&gt;
+&lt;iframe width="694" height="534" src="https://youtu.be/UYMr74eoU1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181103013214.1">## 倉儲推送紀錄
+
+
+[github ag4](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g4/graphs/contributors)
+
+
+
+</t>
+<t tx="leo.20181103014608.1">## 自評
+
+* 學員出席 (20/20)
+
+* Github 倉儲管理  (15/20)
+ 
+* Onshape 協同操作 (10/20)
+
+* V-rep 模擬 (15/20)
+
+* 程式開發 (9/20)
+
+總分:69分</t>
+<t tx="leo.20181103015549.1">## 結論
+
+其實一開始真的很不知所措，雖然之前有做過V-REP但是突然要寫程式，真的得尋問人才行..基本的也是略懂略懂果然程式語言沒那麼好學
+
+</t>
+<t tx="leo.20190610042418.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181103013214.1">## 10/12學習內容
+&lt;/section&gt;</t>
+<t tx="leo.20190610042422.1">## 手足球電腦跟電腦打
 
-* Pelican blog 重複 slug 設定處理.
-
-* 簡單來說就是你的圖檔或影音檔變成標題造成近端錯誤
-只要把Config裡的Content刪除你的圖檔即可修復
-
-* 如何利用 variable 定義簡化繪圖流程.
-
-* 參數化可使同一零件全部一起更改尺寸不用在逐一更改，可省去一大半時間
-
-* Onshapeweek1 課程到 [Onshapeweek2 HW](https://youtu.be/21xvxzzyJUU)
-
-</t>
-<t tx="leo.20181103013217.1">## 上課影片
-
-&lt;iframe width="668" height="534" src="https://www.youtube.com/embed/GE48pZWK8vI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20181103013312.1">&lt;/section&gt;
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-    &lt;/script&gt;
-</t>
-<t tx="leo.20181103013324.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-
-    &lt;/script&gt;
-</t>
-<t tx="leo.20181103013333.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181103014608.1">## 10/19學習內容
-
-* 利用 CMSimfly.leo升級最新的flaskapp.py並且利用 Leo Editor 的 @auto 節點指令與 @clean 節點指令, 重新配置 cmsimfly.leo 開發專案檔.
-
-* 說明課程中, 有關人事時地物等關鍵內容的架構安排，以及課程行事曆的講解
-
-* 可以在 github issues 中納入 Youtube video 連結
-https://github.com/mdecourse/cadp2018/issues/10
-
-* [Onshape Hw3](https://youtu.be/gATBE8LapKI)
-</t>
-<t tx="leo.20181103015434.1">## 上課影片
-
-&lt;iframe width="694" height="534" src="https://www.youtube.com/embed/i0zDhlxAJmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20181103015549.1">## 10/26學習內容
-
-* Onshape練習與網站更新
-
-* 說明使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程.
-
-* 1.可用更新flaskapp.py解決 但近端會消失所以必須clone你遠端的版本下來。
-
-</t>
-<t tx="leo.20181103015944.1">## Fossil SCM
-
-* 說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM .
-
-* 1.最理想的分散式版次管理系統, 可以利用 git remote add, 將近端分組倉儲分別存放在 Github, Gitlab 與 Bitbucket 之外, 再利用 Fossil SCM 建立區域網路或廣域網路上的備份主機, 設法將上述各倉儲與近端保持同步.
-</t>
-<t tx="leo.20181103015948.1">## 11/02學習內容
-
-* 所謂雲端=&gt;https://en.wikipedia.org/wiki/Cloud_computing
-
-* 把Onshape練習好並把自己的網站做完整
-
-* 準備期中考後的專題製作
-
-</t>
-<t tx="leo.20181103020254.1">##專題模擬
-
-* Onshape 零組件設計繪製與組立
-* 將零組件轉至 V-rep 進行運動模擬
-* 利用 Pyquino 與 V-rep (專題主題), 透過 https://github.com/slic3r/Slic3r 驅動 V-rep (專題主題), 進行模擬.
-
-</t>
-<t tx="leo.20181103021142.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-
-    &lt;/script&gt;
-</t>
-<t tx="leo.20181103021147.1">## 專題思考
-
-* Onshape 零組件如何轉入 V-rep?
-* 零組件轉入 V-rep 後, 如何以程式驅動, Python or Lua?
-* Pyquino 如何與 V-rep 機電模型連接運用?
-* STL 模型格式?
-* Parasolid 模型格式?
-* ACIS 模型格式?
-* STEP 模型格式?
-* G-code?
-* TinkerCAD?
-* 3D printing?
+&lt;iframe width="694" height="534" src="https://youtu.be/s92nquB7-m8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>

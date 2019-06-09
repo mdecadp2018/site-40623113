@@ -21,10 +21,10 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102231958.1"><vh>1</vh>
+<v t="leo.20181102231958.1" a="E"><vh>1</vh>
 <v t="leo.20181103001425.1" a="E"><vh>內容</vh>
 <v t="leo.20181103001939.1"><vh>內容1</vh></v>
 </v>
@@ -39,14 +39,14 @@
 <v t="leo.20181103005555.1"><vh>內容3</vh></v>
 </v>
 </v>
-<v t="leo.20181102233623.1"><vh>4</vh>
-<v t="leo.20181102233651.1"><vh>內容</vh>
+<v t="leo.20181102233623.1" a="E"><vh>4</vh>
+<v t="leo.20181102233651.1" a="E"><vh>內容</vh>
 <v t="leo.20181103011319.1"><vh>內容4</vh></v>
 </v>
-<v t="leo.20181103011311.1"><vh>內容</vh>
+<v t="leo.20181103011311.1" a="E"><vh>內容</vh>
 <v t="leo.20181103012252.1"><vh>內容4</vh></v>
 </v>
-<v t="leo.20190610042418.1"><vh>內容</vh>
+<v t="leo.20190610042418.1" a="E"><vh>內容</vh>
 <v t="leo.20190610042422.1"><vh>newHeadline</vh></v>
 </v>
 </v>
@@ -60,12 +60,12 @@
 <v t="leo.20181103014608.1"><vh>內容6</vh></v>
 </v>
 </v>
-<v t="leo.20181102233624.2" a="E"><vh>W7</vh>
+<v t="leo.20181102233624.2"><vh>W7</vh>
 <v t="leo.20181102233702.1" a="E"><vh>內容</vh>
 <v t="leo.20181103015549.1"><vh>內容7</vh></v>
 </v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -460,7 +460,7 @@ make.start()
 * 倉儲推送
 * 貢獻
 * 自評
-*結論
+* 結論
 
 </t>
 <t tx="leo.20181103003947.1">&lt;section data-markdown&gt;
@@ -495,13 +495,14 @@ make.start()
 
 原本第3組根第1組做的稍快
 所以就問了他們相關的程式
-&lt;iframe width="694" height="534" src="https://youtu.be/_rg5RIhGJVw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="1280" height="693" src="https://www.youtube.com/embed/_rg5RIhGJVw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
 <t tx="leo.20181103012252.1">## 手足球手控跟電腦打
 
-&lt;iframe width="694" height="534" src="https://youtu.be/UYMr74eoU1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="1280" height="693" src="https://www.youtube.com/embed/UYMr74eoU1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181103013214.1">## 倉儲推送紀錄
@@ -538,7 +539,7 @@ make.start()
 &lt;/section&gt;</t>
 <t tx="leo.20190610042422.1">## 手足球電腦跟電腦打
 
-&lt;iframe width="694" height="534" src="https://youtu.be/s92nquB7-m8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="1280" height="693" src="https://www.youtube.com/embed/s92nquB7-m8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
